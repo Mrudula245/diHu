@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "299461861536",
+    "project_id": "dihub-b0a16",
+    "storage_bucket": "dihub-b0a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299461861536:android:eb2fea8b6e0f04c5c0e9c5",
+        "android_client_info": {
+          "package_name": "com.example.dihub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8LzNOsojOy8Nl-TQgDXxWCBT_aE2yx3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
